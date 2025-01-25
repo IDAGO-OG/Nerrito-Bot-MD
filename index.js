@@ -5,8 +5,8 @@ import { setupMaster, fork } from 'cluster';
 import cfonts from 'cfonts';
 import readline from 'readline';
 import yargs from 'yargs';
-import chalk from 'chalk'; 
-import fs from 'fs'; 
+import chalk from 'chalk';
+import fs from 'fs';
 import './config.js';
 
 const { PHONENUMBER_MCC } = await import('baileys');
@@ -55,13 +55,13 @@ async function start(file) {
   if (isRunning) return;
   isRunning = true;
 
-  say('The Mystic\nBot', {
+  say('Nerrito-Bot', { // Cambiado a Nerrito-Bot
     font: 'chrome',
     align: 'center',
     gradient: ['red', 'magenta'],
   });
 
-  say(`Bot creado por Bruno Sobrino`, {
+  say(`Bot creado por IDAGO-OG`, { // Cambiado a IDAGO-OG
     font: 'console',
     align: 'center',
     gradient: ['red', 'magenta'],
@@ -80,10 +80,10 @@ async function start(file) {
 
   let numeroTelefono = '';
   if (opcion === '2') {
-    const phoneNumber = await question(chalk.yellowBright.bold('\n—◉ㅤEscriba su número de WhatsApp:\n') + chalk.white.bold('◉ㅤEjemplo: +5219992095479\n—> '));
+    const phoneNumber = await question(chalk.yellowBright.bold('\n—◉ㅤEscriba su número de WhatsApp:\n') + chalk.white.bold('◉ㅤEjemplo: +584121275155\n—> ')); // Cambiado a tu número
     numeroTelefono = formatearNumeroTelefono(phoneNumber);
     if (!esNumeroValido(numeroTelefono)) {
-      console.log(chalk.bgRed(chalk.white.bold('[ ERROR ] Número inválido. Asegúrese de haber escrito su numero en formato internacional y haber comenzado con el código de país.\n—◉ㅤEjemplo:\n◉ +5219992095479\n')));
+      console.log(chalk.bgRed(chalk.white.bold('[ ERROR ] Número inválido. Asegúrese de haber escrito su numero en formato internacional y haber comenzado con el código de país.\n—◉ㅤEjemplo:\n◉ +584121275155\n'))); // Cambiado a tu número
       process.exit(0);
     }
     process.argv.push(numeroTelefono);
