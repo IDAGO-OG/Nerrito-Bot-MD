@@ -1,33 +1,20 @@
 {
-  "name": "TheMystic-Bot-MD",
-  "version": "1.0.0",
-  "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
-  "main": "index.js",
-  "type": "module",
-  "directories": {
-    "lib": "lib",
-    "src": "src",
-    "plugins": "plugins"
-  },
-  "scripts": {
-    "start": "node index.js",
-    "qr": "node index.js qr",
-    "code": "node index.js code",
-    "eslint": "eslint .",
-    "eslintfix": "eslint --fix .",
-    "postinstall": "node pipdeps.js"
-  },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "name": "nerrito-bot",
+  "description": "Un Bot de WhatsApp para múltiples funcionalidades.",
+  "homepage": "https://github.com/IDAGO-OG/Nerrito-Bot",
   "author": {
-    "name": "BrunoSobrino"
+    "name": "IDAGO-OG",
+    "email": "d32393844@gmail.com", // Correo actualizado
+    "url": "https://github.com/IDAGO-OG"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://github.com/IDAGO-OG/Nerrito-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
-  },
+    "url": "https://github.com/IDAGO-OG/Nerrito-Bot/issues"
+  }
+},
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
