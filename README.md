@@ -1,5 +1,7 @@
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
+👉 [Ver efecto pixelado aquí](https://nerrito.github.io/pixel-effect/)
+
 <p align="center">
  <img src="Perfil.jpg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
  <h2 align="center" style="font-family: 'Press Start 2P', cursive; font-size: 32px; color: white;">Nerrito-Bot-MD</h2>
