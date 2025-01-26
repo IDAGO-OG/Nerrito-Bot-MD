@@ -1,4 +1,4 @@
-/* ⚠ POR FAVOR NO MODIFIQUES NADA DE AQUÍ ⚠ */
+/* ⚠ POR FAVOR NO MODIFIQUES NADA DE AQUÍ ⚠ 
 
 
 import {generateWAMessageFromContent} from "baileys";
@@ -39,3 +39,4 @@ handler.help = ['donasi'];
 handler.tags = ['info'];
 handler.command = /^dona(te|si)|donar|apoyar$/i;
 export default handler;
+*/
