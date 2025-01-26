@@ -1,5 +1,5 @@
 <p align="center">
- <img width="180px" src="https://i.ibb.co/Qn1W6cP/image.png" align="center"/>
+ <img src="Creador.jpeg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
  <h2 align="center">TheMystic-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
