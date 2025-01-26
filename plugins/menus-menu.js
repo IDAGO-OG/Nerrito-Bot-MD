@@ -19,16 +19,20 @@ const handler = async (m, { conn, usedPrefix, __dirname, text, isPrems }) => {
 
     // Texto del menú con formato y emojis
     let str = `
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+┃  *NERRITO BOT 🐈‍⬛*  
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+
 ╭━━━「 *INFORMACIÓN DEL USUARIO* 」━━━╮
-┃ *Nombre:* ${taguser}
-┃ *Nivel:* ${level}
-┃ *Experiencia:* ${exp}
-┃ *Rango:* ${role}
-┃ *Dinero:* ${money}
-┃ *Tokens:* ${limit}
-┃ *Premium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')}
-┃ *Registrados:* ${rtotalreg}
-┃ *Uptime:* ${uptime}
+┃ *👤 Nombre:* ${taguser}
+┃ *📊 Nivel:* ${level}
+┃ *🌟 Experiencia:* ${exp}
+┃ *🎖️ Rango:* ${role}
+┃ *💰 Dinero:* ${money}
+┃ *🎟️ Tokens:* ${limit}
+┃ *💎 Premium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')}
+┃ *📅 Registrados:* ${rtotalreg}
+┃ *⏳ Uptime:* ${uptime}
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 
 ╭━━━「 *MENÚ PRINCIPAL* 」━━━╮
