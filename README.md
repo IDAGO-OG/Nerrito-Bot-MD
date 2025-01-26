@@ -1,10 +1,8 @@
-
-
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
 <p align="center">
- <img src="Perfil.jpeg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
- <h2 align="center">Nerrito-Bot-MD</h2>
+ <img src="Perfil.jpg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
+ <h2 align="center" style="font-family: 'Press Start 2P', cursive; font-size: 32px; color: white;">Nerrito-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
@@ -81,7 +79,6 @@ termux-setup-storage && apt update && apt upgrade -y && pkg install -y git nodej
 ----
  
 
-
 # Soporte y Comunidad
 
 ## Comunidades de Ayuda
@@ -94,8 +91,52 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a al **Desarrollador** que ha aportado al desarrollo de este proyecto. Su aporte ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD//graphs/contributors">  <img src="Perfil.jpeg" /> 
+<a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD//graphs/contributors">  <img src="Perfil.jpg" /> 
 </a>
 
 #### `NerritoBot-MD ~ By Diego-OG`
+
+<script>
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(function() {
+      alert('Comando copiado: ' + text);
+    }, function(err) {
+      console.error('Error al copiar: ', err);
+    });
+  }
+</script>
+
+<details>
+  <summary><b>Toca para ver más.</b></summary>
+ 
+> *Comandos para instalar de forma manual*
+<textarea readonly onclick="copyToClipboard(this.value)" style="width: 100%; height: 50px; background: #f4f4f4; border: 1px solid #ccc; padding: 10px; cursor: pointer;">
+termux-setup-storage
+</textarea>
+
+<textarea readonly onclick="copyToClipboard(this.value)" style="width: 100%; height: 50px; background: #f4f4f4; border: 1px solid #ccc; padding: 10px; cursor: pointer;">
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+</textarea>
+
+<textarea readonly onclick="copyToClipboard(this.value)" style="width: 100%; height: 50px; background: #f4f4f4; border: 1px solid #ccc; padding: 10px; cursor: pointer;">
+git clone https://github.com/IDAGO-OG/Nerrito-Bot-MD && cd Nerrito-Bot-MD
+</textarea>
+
+<textarea readonly onclick="copyToClipboard(this.value)" style="width: 100%; height: 50px; background: #f4f4f4; border: 1px solid #ccc; padding: 10px; cursor: pointer;">
+yarn install && npm install
+</textarea>
+
+<textarea readonly onclick="copyToClipboard(this.value)" style="width: 100%; height: 50px; background: #f4f4f4; border: 1px solid #ccc; padding: 10px; cursor: pointer;">
+npm start
+</textarea>
+</details>
+
+<details>
+  <summary><b>Toca para ver más.</b></summary>
+ 
+> *Comando para instalar de forma Automática*
+<textarea readonly onclick="copyToClipboard(this.value)" style="width: 100%; height: 50px; background: #f4f4f4; border: 1px solid #ccc; padding: 10px; cursor: pointer;">
+termux-setup-storage && apt update && apt upgrade -y && pkg install -y git nodejs ffmpeg imagemagick yarn && git clone https://github.com/IDAGO-OG/Nerrito-Bot-MD && cd Nerrito-Bot-MD && yarn install && npm install && npm start
+</textarea>
+</details>
 ```
