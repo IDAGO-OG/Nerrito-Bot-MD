@@ -3,7 +3,7 @@
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
 <p align="center">
- <img width="180px" src="creador.jpeg" align="center"/>
+ <img width="180px" src="Creador.jpeg" align="center"/>
  <h2 align="center">Nerrito-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
@@ -113,7 +113,7 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a al **Desarrollador** que ha aportado al desarrollo de este proyecto. Su aporte ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD//graphs/contributors">  <img src="creador.jpeg" /> 
+<a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD//graphs/contributors">  <img src="Creador.jpeg" /> 
 </a>
 
 #### `NerritoBot-MD ~ By Diego-OG`
