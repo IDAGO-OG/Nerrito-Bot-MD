@@ -71,7 +71,7 @@ npm start
 <details>
   <summary><b>Toca para ver más.</b></summary>
  
-> *Comandos para instalar de forma manual*
+> *Comando para instalar de forma Automática*
 ```bash
 termux-setup-storage && apt update && apt upgrade -y && pkg install -y git nodejs ffmpeg imagemagick yarn && git clone https://github.com/IDAGO-OG/Nerrito-Bot-MD && cd Nerrito-Bot-MD && yarn install && npm install && npm start
 ```
