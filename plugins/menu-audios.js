@@ -35,51 +35,51 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 ┃ *<𝐌𝐄𝐍𝐔 𝐀𝐔𝐃𝐈𝐎𝐒/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
 ┣ *- ${_translate.plugins.menu_audios.texto1}*
-┣ ඬ⃟🔊 >_*Mensaje 1*: Quien es tu sempai botsito 7w7_
-┣ ඬ⃟🔊 >_*Mensaje 2*: Te diagnostico con gay_
-┣ ඬ⃟🔊 >_*Mensaje 3*: No digas eso papu_
-┣ ඬ⃟🔊 >_*Mensaje 4*: A nadie le importa_
-┣ ඬ⃟🔊 >_*Mensaje 5*: Fiesta del admin_
-┣ ඬ⃟🔊 >_*Mensaje 6*: Fiesta del administrador_
-┣ ඬ⃟🔊 >_*Mensaje 7*: Vivan los novios_
-┣ ඬ⃟🔊 >_*Mensaje 8*: Feliz cumpleaños_
-┣ ඬ⃟🔊 >_*Mensaje 9*: Noche de paz_
-┣ ඬ⃟🔊 >_*Mensaje 10*: Buenos dias_
-┣ ඬ⃟🔊 >_*Mensaje 11*: Buenos tardes_
-┣ ඬ⃟🔊 >_*Mensaje 12*: Buenos noches_
-┣ ඬ⃟🔊 >_*Mensaje 13*: Audio hentai_
-┣ ඬ⃟🔊 >_*Mensaje 14*: Chica lgante_
-┣ ඬ⃟🔊 >_*Mensaje 15*: Feliz navidad_
-┣ ඬ⃟🔊 >_*Mensaje 16*: Vete a la vrg_
-┣ ඬ⃟🔊 >_*Mensaje 17*: Pasa pack Bot_
-┣ ඬ⃟🔊 >_*Mensaje 18*: Atencion grupo_
-┣ ඬ⃟🔊 >_*Mensaje 19*: Marica quien_
-┣ ඬ⃟🔊 >_*Mensaje 20*: Murio el grupo_
-┣ ඬ⃟🔊 >_*Mensaje 21*: Oh me vengo_
-┣ ඬ⃟🔊 >_*Mensaje 22*: tio que rico_
-┣ ඬ⃟🔊 >_*Mensaje 23*: Viernes_
-┣ ඬ⃟🔊 >_*Mensaje 24*: Baneado_
-┣ ඬ⃟🔊 >_*Mensaje 25*: Sexo_
-┣ ඬ⃟🔊 >_*Mensaje 26*: Hola_
-┣ ඬ⃟🔊 >_*Mensaje 27*: Un pato_
-┣ ඬ⃟🔊 >_*Mensaje 28*: Nyanpasu_
-┣ ඬ⃟🔊 >_*Mensaje 29*: Te amo_
-┣ ඬ⃟🔊 >_*Mensaje 30*: Yamete_
-┣ ඬ⃟🔊 >_*Mensaje 31*: Bañate_
-┣ ඬ⃟🔊 >_*Mensaje 32*: Es puto_
-┣ ඬ⃟🔊 >_*Mensaje 33*: La biblia_
-┣ ඬ⃟🔊 >_*Mensaje 34*: Onichan_
-┣ ඬ⃟🔊 >_*Mensaje 35*: Mierda de Bot_
-┣ ඬ⃟🔊 >_*Mensaje 36*: Siuuu_
-┣ ඬ⃟🔊 >_*Mensaje 37*: Epico_
-┣ ඬ⃟🔊 >_*Mensaje 38*: Shitpost_
-┣ ඬ⃟🔊 >_*Mensaje 39*: Rawr_
-┣ ඬ⃟🔊 >_*Mensaje 40*: UwU_
-┣ ඬ⃟🔊 >_*Mensaje 41*: :c_
-┣ ඬ⃟🔊 >_*Mensaje 42*: a_
+┣ ඬ⃟🔊 _* Audio #1*: `Quien es tu sempai botsito 7w7`_
+┣ ඬ⃟🔊 _* Audio #2*: `Te diagnostico con gay`_
+┣ ඬ⃟🔊 _* Audio #3*: `No digas eso papu`_
+┣ ඬ⃟🔊 _* Audio #4*: `A nadie le importa`_
+┣ ඬ⃟🔊 _* Audio #5*: `Fiesta del admin`_
+┣ ඬ⃟🔊 _* Audio #6*: `Fiesta del administrador`_
+┣ ඬ⃟🔊 _* Audio #7*: `Vivan los novios`_
+┣ ඬ⃟🔊 _* Audio #8*: `Feliz cumpleaños`_
+┣ ඬ⃟🔊 _* Audio #9*: `Noche de paz`_
+┣ ඬ⃟🔊 _* Audio #10*: `Buenos dias`_
+┣ ඬ⃟🔊 _* Audio #11*: `Buenos tardes`_
+┣ ඬ⃟🔊 _* Audio #12*: `Buenos noches`_
+┣ ඬ⃟🔊 _* Audio #13*: `Audio hentai`_
+┣ ඬ⃟🔊 _* Audio #14*: `Chica lgante`_
+┣ ඬ⃟🔊 _* Audio #15*: `Feliz navidad`_
+┣ ඬ⃟🔊 _* Audio #16*: `Vete a la vrg`_
+┣ ඬ⃟🔊 _* Audio #17*: `Pasa pack Bot`_
+┣ ඬ⃟🔊 _* Audio #18*: `Atencion grupo`_
+┣ ඬ⃟🔊 _* Audio #19*: `Marica quien`_
+┣ ඬ⃟🔊 _* Audio #20*: `Murio el grupo`_
+┣ ඬ⃟🔊 _* Audio #21*: `Oh me vengo`_
+┣ ඬ⃟🔊 _* Audio #22*: `tio que rico`_
+┣ ඬ⃟🔊 _* Audio #23*: `Viernes`_
+┣ ඬ⃟🔊 _* Audio #24*: `Baneado`_
+┣ ඬ⃟🔊 _* Audio #25*: `Sexo`_
+┣ ඬ⃟🔊 _* Audio #26*: `Hola`_
+┣ ඬ⃟🔊 _* Audio #27*: `Un pato`_
+┣ ඬ⃟🔊 _* Audio #28*: `Nyanpasu`_
+┣ ඬ⃟🔊 _* Audio #29*: `Te amo`_
+┣ ඬ⃟🔊 _* Audio #30*: `Yamete`_
+┣ ඬ⃟🔊 _* Audio #31*: `Bañate`_
+┣ ඬ⃟🔊 _* Audio #32*: `Es puto`_
+┣ ඬ⃟🔊 _* Audio #33*: `La biblia`_
+┣ ඬ⃟🔊 _* Audio #34*: `Onichan`_
+┣ ඬ⃟🔊 _* Audio #35*: `Mierda de Bot`_
+┣ ඬ⃟🔊 _* Audio #36*: `Siuuu`_
+┣ ඬ⃟🔊 _* Audio #37*: `Epico`_
+┣ ඬ⃟🔊 _* Audio #38*: `Shitpost`_
+┣ ඬ⃟🔊 _* Audio #39*: `Rawr`_
+┣ ඬ⃟🔊 _* Audio #40*: `UwU`_
+┣ ඬ⃟🔊 _* Audio #41*: `:c`_
+┣ ඬ⃟🔊 _* Audio #42*: `a`_
 ┗━━━━━━━━━━━━━━━━┛
 
-> No hacer spam al Bot con audios, por favor.`.trim();
+>`No hacer spam al Bot con audios, por favor`.`.trim();
 
     if (m.isGroup) {
       const fkontak2 = {
