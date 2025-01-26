@@ -20,7 +20,7 @@ const handler = async (m, { conn, usedPrefix, __dirname, text, isPrems }) => {
     // Texto del menú con formato y emojis
     let str = `
 ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-┃  *🅝🅔🅡🅡🅘🅣🅞 🅑🅞🅣 🐈‍⬛*  
+┃  *NERRITO BOT 🐈‍⬛*  
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 
 ╭━━━「 *INFORMACIÓN DEL USUARIO* 」━━━╮
