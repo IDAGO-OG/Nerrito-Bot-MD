@@ -34,7 +34,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 ┏━━━━━━━━━━━━━━━━┓
 ┃ *<𝐌𝐄𝐍𝐔 𝐀𝐔𝐃𝐈𝐎𝐒/>*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ *- ${_translate.plugins.menu_audios.texto1}*
+┣ - ${_translate.plugins.menu_audios.texto1}
 ┣ ඬ⃟🔊 _* Audio #1*: `Quien es tu sempai botsito 7w7`_
 ┣ ඬ⃟🔊 _* Audio #2*: `Te diagnostico con gay`_
 ┣ ඬ⃟🔊 _* Audio #3*: `No digas eso papu`_
