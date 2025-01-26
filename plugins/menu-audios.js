@@ -79,7 +79,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 ┣ ඬ⃟🔊 _* Audio #42*: `a`_
 ┗━━━━━━━━━━━━━━━━┛
 
->`No hacer spam al Bot con audios, por favor`.`.trim();
+>No hacer `spam al Bot con audios`, por favor.`.trim();
 
     if (m.isGroup) {
       const fkontak2 = {
