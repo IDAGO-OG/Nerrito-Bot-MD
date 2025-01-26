@@ -3,7 +3,7 @@
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
 <p align="center">
- <img width="180px" src="Creador.jpeg" align="center"/>
+ <img src="Creador.jpeg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
  <h2 align="center">Nerrito-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
