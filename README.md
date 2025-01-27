@@ -1,28 +1,6 @@
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
-<div style="text-align: center;">
-    <h1 style="font-family: 'Arial', sans-serif; font-size: 3em; font-weight: bold; animation: rainbow 3s infinite, blink 1.5s infinite;">
-        Hola, soy Nerrito 👋<br>
-        Bienvenido a mi repositorio
-    </h1>
-</div>
 
-<style>
-    @keyframes rainbow {
-        0% { color: #ff0000; }
-        14% { color: #ff7f00; }
-        28% { color: #ffff00; }
-        42% { color: #00ff00; }
-        57% { color: #0000ff; }
-        71% { color: #4b0082; }
-        85% { color: #9400d3; }
-        100% { color: #ff0000; }
-    }
-    @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
-    }
-</style>
 
 
 <p align="center">
