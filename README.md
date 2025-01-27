@@ -2,11 +2,11 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hola%2C+Soy+Nerrito+%E2%99%A1)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hola%2C+Soy+Nerrito+%E2%99%A1)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Gracias+por+visitarme+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Gracias+por+visitarme)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=%C2%A1Me+apoyas+con+una+%E2%98%86%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=%C2%A1Me+apoyas+con+una+%F0%9F%8C%9F%3F)](https://git.io/typing-svg)
 
 
 
