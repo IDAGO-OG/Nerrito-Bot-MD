@@ -1,6 +1,6 @@
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
-## <a href="https://github.com/IDAGO-OG/NerroBot-MD">
+## <a
     <span style="color: #FF0000;">H</span>
     <span style="color: #FF7F00;">o</span>
     <span style="color: #FFFF00;">l</span>
