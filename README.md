@@ -2,6 +2,11 @@
 
 
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Hola%2C+Soy+Nerrito+%E2%99%A1;Gracias+por+visitarme+%F0%9F%8C%9F;%C2%A1Me+apoyas+con+una+%E2%98%86%3F)](https://git.io/typing-svg)
+
+
+
+
 
 
 <p align="center">
@@ -10,7 +15,7 @@
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Hola%2C+Soy+Nerrito+%E2%99%A1;Gracias+por+visitarme+%F0%9F%8C%9F;%C2%A1Me+apoyas+con+una+%E2%98%86%3F)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+584121275155&text=&text=.menu">Demo</a>
