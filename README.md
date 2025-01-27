@@ -10,10 +10,8 @@
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
-## ## <a href="https://github.com/IDAGO-OG/NerroBot-MD">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+soy+Nerrito+%F0%9F%91%8B;Bienvenido+a+mi+repositorio" alt="Typing SVG 1" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+soy+Nerrito+%F0%9F%91%8B;Bienvenido+a+mi+repositorio" alt="Typing SVG 2" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+soy+Nerrito+%F0%9F%91%8B;Bienvenido+a+mi+repositorio" alt="Typing SVG 3" />
+## <a href="https://github.com/IDAGO-OG/NerroBot-MD">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+Soy+Nerrito+%E2%99%A1;Gracias+por+visitar+mi+repositorio" alt="Typing SVG" />
 </a>
 
 <p align="center">
