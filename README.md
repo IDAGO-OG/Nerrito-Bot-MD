@@ -1,5 +1,54 @@
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
+## <a href="https://github.com/IDAGO-OG/NerroBot-MD">
+    <span style="color: #FF0000;">H</span>
+    <span style="color: #FF7F00;">o</span>
+    <span style="color: #FFFF00;">l</span>
+    <span style="color: #00FF00;">a</span>
+    <span style="color: #0000FF;">,</span>
+    <span style="color: #4B0082;"> </span>
+    <span style="color: #9400D3;">s</span>
+    <span style="color: #FF0000;">o</span>
+    <span style="color: #FF7F00;">y</span>
+    <span style="color: #FFFF00;"> </span>
+    <span style="color: #00FF00;">N</span>
+    <span style="color: #0000FF;">e</span>
+    <span style="color: #4B0082;">r</span>
+    <span style="color: #9400D3;">r</span>
+    <span style="color: #FF0000;">i</span>
+    <span style="color: #FF7F00;">t</span>
+    <span style="color: #FFFF00;">o</span>
+    <span style="color: #00FF00;"> </span>
+    <span style="color: #0000FF;">👋</span>
+    <br>
+    <span style="color: #FF0000;">B</span>
+    <span style="color: #FF7F00;">i</span>
+    <span style="color: #FFFF00;">e</span>
+    <span style="color: #00FF00;">n</span>
+    <span style="color: #0000FF;">v</span>
+    <span style="color: #4B0082;">e</span>
+    <span style="color: #9400D3;">n</span>
+    <span style="color: #FF0000;">i</span>
+    <span style="color: #FF7F00;">d</span>
+    <span style="color: #FFFF00;">o</span>
+    <span style="color: #00FF00;"> </span>
+    <span style="color: #0000FF;">a</span>
+    <span style="color: #4B0082;"> </span>
+    <span style="color: #9400D3;">m</span>
+    <span style="color: #FF0000;">i</span>
+    <span style="color: #FF7F00;"> </span>
+    <span style="color: #FFFF00;">r</span>
+    <span style="color: #00FF00;">e</span>
+    <span style="color: #0000FF;">p</span>
+    <span style="color: #4B0082;">o</span>
+    <span style="color: #9400D3;">s</span>
+    <span style="color: #FF0000;">i</span>
+    <span style="color: #FF7F00;">t</span>
+    <span style="color: #FFFF00;">o</span>
+    <span style="color: #00FF00;">r</span>
+    <span style="color: #0000FF;">i</span>
+    <span style="color: #4B0082;">o</span>
+</a>
 
 
 
