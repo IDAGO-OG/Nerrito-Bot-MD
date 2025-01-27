@@ -10,9 +10,7 @@
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
-## <a href="https://github.com/IDAGO-OG/NerroBot-MD">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+Soy+Nerrito+%E2%99%A1;Gracias+por+visitar+mi+repositorio" alt="Typing SVG" />
-</a>
+## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+Soy+Nerrito+%E2%99%A1;Gracias+por+visitarme+me+apoyas+con+una+%E2%98%86%3F)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+584121275155&text=&text=.menu">Demo</a>
