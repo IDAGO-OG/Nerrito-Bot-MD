@@ -4,227 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nerrito-Bot-MD 🐈‍⬛</title>
-    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="web/favicon.ico">
     <link rel="stylesheet" href="web/estilo.css">
     <style>
         body {
-            font-family: 'Comfortaa', sans-serif;
+            font-family: 'Press Start 2P', cursive; /* Fuente pixelada */
             background-color: #232323;
             color: #ffffff;
             margin: 0;
             padding: 0;
-        }
-        .container {
             text-align: center;
-            padding: 20px;
         }
-        img {
-            max-width: 100%;
-            height: auto;
+        h1 {
+            font-size: 2.5em;
+            color: #00ff00; /* Verde neón para efecto pixelado */
+            margin-top: 20px;
+            animation: glow 1.5s infinite alternate;
         }
-        a {
-            color: #00bcd4;
-            text-decoration: none;
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00;
+            }
+            to {
+                text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+            }
         }
-        a:hover {
-            text-decoration: underline;
+        .cat {
+            font-size: 5em;
+            margin-top: 20px;
+            animation: float 3s ease-in-out infinite;
         }
-        .badges img {
-            margin: 5px;
-        }
-        .contenedor-imagenes {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin: 20px 0;
-        }
-        .contenedor-texto {
-            margin: 20px 0;
-        }
-        blockquote {
-            background-color: #333;
-            padding: 10px;
-            border-left: 5px solid #00bcd4;
-            margin: 20px 0;
-        }
-        details {
-            margin: 20px 0;
-        }
-        summary {
-            font-weight: bold;
-            cursor: pointer;
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-20px);
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div style="text-align:center;">
-            <img src="https://em-content.zobj.net/source/telegram/386/crystal-ball_1f52e.webp" alt="NerritoTelegram" width="180px">
-            <h2>Nerrito-Bot-MD</h2>
-            <p>Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
-        </div>
-
-        <div style="text-align:center;" class="badges">
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/graphs/contributors">
-                <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/IDAGO-OG/Nerrito-Bot-MD?style=for-the-badge">
-            </a>
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/issues">
-                <img alt="GitHub Issues" src="https://img.shields.io/github/issues/IDAGO-OG/Nerrito-Bot-MD?style=for-the-badge">
-            </a>
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/pulls">
-                <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/IDAGO-OG/Nerrito-Bot-MD?style=for-the-badge">
-            </a>
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/commits">
-                <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/IDAGO-OG/Nerrito-Bot-MD?style=for-the-badge">
-            </a>
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD">
-                <img alt="GitHub Stars" src="https://img.shields.io/github/stars/IDAGO-OG/Nerrito-Bot-MD?style=for-the-badge">
-            </a>
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/fork">
-                <img alt="GitHub Forks" src="https://img.shields.io/github/forks/IDAGO-OG/Nerrito-Bot-MD?style=for-the-badge">
-            </a>
-        </div>
-
-        <div style="text-align:center;">
-            <a href="https://api.whatsapp.com/send?phone=+5219992843881&text=&text=.menu">Demo</a>
-            ·
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/issues/new?assignees=&labels=Bug">Reportar Bug</a>
-            ·
-            <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/issues/new?assignees=&labels=Enhancement">Solicitar Característica</a>
-            ·
-            <a href="https://weskerty.github.io/PluginsMystic/">Más Plugins</a>
-            ·
-            <a href="https://weskerty.github.io/TheMysticMOD/web/Grupos/">Grupos de Ayuda</a>
-            ·
-            <a href="web/Guias/Wiki/">Wiki</a>
-        </div>
-
-        <div style="text-align:center;">
-            <p>¡Ayuda a mantener el proyecto activo con tu <a href="https://www.paypal.me/IDAGO-OG">donación</a> y contribuye a mejorar las funciones del chatbot para todos!</p>
-        </div>
-
-        <blockquote>
-            <h2>Avisos Importantes</h2>
-            <div>
-                <p><strong>IMPORTANTE:</strong> Este proyecto <strong>no está afiliado de ninguna manera</strong> con WhatsApp, Inc. WhatsApp es una marca registrada de WhatsApp LLC, y este bot es un <strong>desarrollo independiente</strong> que no tiene ninguna relación oficial con la compañía.</p>
-                <p><strong>IMPORTANTE:</strong> No se asegura que este proyecto siga funcionando al 100% debido a cuestiones de tiempo personales de @IDAGO-OG, por lo cual el proyecto está en manos de colaboradores y usuarios que deseen aportar actualizaciones.</p>
-            </div>
-        </blockquote>
-
-        <h2 id="opciones-de-despliegue">Opciones de despliegue</h2>
-
-        <div class="contenedor-texto">
-            <details>
-                <summary><b>Despliegue en Cafirexos</b></summary>
-                <ul>
-                    <li><a href="https://cafirexos.com">Sitio Web</a></li>
-                    <li><a href="https://clientes.cafirexos.com">Área de Clientes</a></li>
-                    <li><a href="https://panel.cafirexos.com">Panel de Control</a></li>
-                    <li><a href="https://estado.cafirexos.com">Estado de los Servicios</a></li>
-                    <li><a href="https://docs.cafirexos.com">Documentación</a></li>
-                    <li><a href="https://cafirexos.com/whatsapp">Canal de WhatsApp</a></li>
-                    <li><a href="https://cafirexos.com/comunidad">Comunidad de WhatsApp</a></li>
-                </ul>
-            </details>
-
-            <details>
-                <summary><b>Despliegue en BoxMineWorld</b></summary>
-                <ul>
-                    <li><a href="https://boxmineworld.com">Sitio Web</a></li>
-                    <li><a href="https://dash.boxmineworld.com">Área de Clientes</a></li>
-                    <li><a href="https://panel.boxmineworld.com">Panel de Control</a></li>
-                    <li><a href="https://docs.boxmineworld.com">Documentación</a></li>
-                    <li><a href="https://discord.gg/84qsr4v">Comunidad de Discord</a></li>
-                </ul>
-            </details>
-        </div>
-
-        <div class="contenedor-imagenes">
-            <a href="https://cafirexos.com">
-                <img src="https://cdn.cafirexos.com/logos/logo_cfros_2000x2000.png" alt="Cafirexos" width="60%" loading="lazy" />
-            </a>
-            <a href="https://boxmineworld.com">
-                <img src="https://boxmineworld.com/img/animacion.gif" alt="BoxMineWorld" width="120%" loading="lazy" />
-            </a>
-        </div>
-
-        <div style="text-align:center;">
-            <h3 id="despliegue-en-otros">Despliegue en Otros</h3>
-            <p>En esta sección encontrarás botones de despliegue que te permitirán implementar el proyecto en distintos entornos con un solo clic.</p>
-            <a href="https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=514876515&ref=master&geo=EuropeWest">
-                <img src="https://github.com/codespaces/badge.svg" alt="Open in Codespaces">
-            </a>
-            <a href="https://glitch.com/edit/#!/import/github/IDAGO-OG/Nerrito-Bot-MD">
-                <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg" alt="Deploy to Glitch">
-            </a>
-            <a href="https://www.heroku.com/deploy?template=https://github.com/IDAGO-OG/Nerrito-Bot-MD">
-                <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg" alt="Deploy to Heroku">
-            </a>
-            <a href="https://app.koyeb.com/deploy?type=git&name=nerrito-bot-md&repository=https://github.com/IDAGO-OG/Nerrito-Bot-MD">
-                <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg" alt="Deploy to Koyeb">
-            </a>
-            <a href="https://repl.it/github/IDAGO-OG/Nerrito-Bot-MD">
-                <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg" alt="Run on Repl.it">
-            </a>
-            <a href="https://dashboard.render.com/blueprint/new?repo=https://github.com/IDAGO-OG/Nerrito-Bot-MD">
-                <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg" alt="Deploy to Render">
-            </a>
-            <a href="web/Guias/Termux/">
-                <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Termux">
-            </a>
-            <a href="web/Guias/Linux/">
-                <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-            </a>
-            <a href="web/Guias/Windows/">
-                <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-            </a>
-            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-                <img src="https://img.shields.io/badge/iPhone-333333?style=for-the-badge&logo=apple&logoColor=white" alt="Appe">
-            </a>
-        </div>
-
-        <div class="contenedor-texto">
-            <h1><a href="https://weskerty.github.io/PluginsMystic/">+Plugins</a></h1>
-            <a href="https://weskerty.github.io/TheMysticMOD/web/Grupos/"><h1>Soporte</h1></a>
-            <h1><a href="web/Guias/Wiki/">Wiki</a></h1>
-        </div>
-
-        <div class="contenedor-imagenes">
-            <a href="https://weskerty.github.io/PluginsMystic/">
-                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="People Hugging" width="60%" loading="lazy" />
-            </a>
-            <a href="https://weskerty.github.io/TheMysticMOD/web/Grupos/">
-                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="People Hugging" width="60%" loading="lazy" />
-            </a>
-            <a href="web/Guias/Wiki/">
-                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="People Hugging" width="50%" loading="lazy" />
-            </a>
-        </div>
-
-        <h1 id="colaboradores">Colaboradores</h1>
-        <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD/graphs/contributors">
-            <img src="https://contrib.rocks/image?repo=IDAGO-OG/Nerrito-Bot-MD" alt="Colaboradores" width="100%" height="auto" loading="lazy" />
-        </a>
-
-        <h2>Agradecimientos</h2>
-        <a href="https://www.pexels.com/video/a-woman-holding-a-crystal-ball-7180356/">Video ↗️</a>
-        <a href="https://telegram-animated-emojis.vercel.app/">Emojis ↗️</a>
-        <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md">Badges ↗️</a>
-
-        <div class="contenedor-imagenes">
-            <a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device">
-                <img src="https://i.ibb.co/CMpM8pk/Bochil-Gaming.png" alt="Bochil Gaming" width="70%" loading="lazy" />
-            </a>
-            <a href="https://github.com/WhiskeySockets/Baileys">
-                <img src="https://avatars.githubusercontent.com/u/131354555?s=200&v=4" alt="WSBaileys" width="70%" loading="lazy" />
-            </a>
-            <a href="https://github.com/IDAGO-OG">
-                <img src="https://i.ibb.co/Qn1W6cP/image.png" alt="IDAGO-OG" width="70%" loading="lazy" />
-            </a>
-        </div>
-
-        <p>Y Muchos otros Más</p>
+        <h1>Nerrito-Bot-MD 🐈‍⬛</h1>
+        <div class="cat">🐾</div>
+        <p>Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
     </div>
 </body>
 </html>
