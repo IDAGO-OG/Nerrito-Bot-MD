@@ -1,54 +1,6 @@
 # `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
 
-## <a
-    <span style="color: #FF0000;">H</span>
-    <span style="color: #FF7F00;">o</span>
-    <span style="color: #FFFF00;">l</span>
-    <span style="color: #00FF00;">a</span>
-    <span style="color: #0000FF;">,</span>
-    <span style="color: #4B0082;"> </span>
-    <span style="color: #9400D3;">s</span>
-    <span style="color: #FF0000;">o</span>
-    <span style="color: #FF7F00;">y</span>
-    <span style="color: #FFFF00;"> </span>
-    <span style="color: #00FF00;">N</span>
-    <span style="color: #0000FF;">e</span>
-    <span style="color: #4B0082;">r</span>
-    <span style="color: #9400D3;">r</span>
-    <span style="color: #FF0000;">i</span>
-    <span style="color: #FF7F00;">t</span>
-    <span style="color: #FFFF00;">o</span>
-    <span style="color: #00FF00;"> </span>
-    <span style="color: #0000FF;">👋</span>
-    <br>
-    <span style="color: #FF0000;">B</span>
-    <span style="color: #FF7F00;">i</span>
-    <span style="color: #FFFF00;">e</span>
-    <span style="color: #00FF00;">n</span>
-    <span style="color: #0000FF;">v</span>
-    <span style="color: #4B0082;">e</span>
-    <span style="color: #9400D3;">n</span>
-    <span style="color: #FF0000;">i</span>
-    <span style="color: #FF7F00;">d</span>
-    <span style="color: #FFFF00;">o</span>
-    <span style="color: #00FF00;"> </span>
-    <span style="color: #0000FF;">a</span>
-    <span style="color: #4B0082;"> </span>
-    <span style="color: #9400D3;">m</span>
-    <span style="color: #FF0000;">i</span>
-    <span style="color: #FF7F00;"> </span>
-    <span style="color: #FFFF00;">r</span>
-    <span style="color: #00FF00;">e</span>
-    <span style="color: #0000FF;">p</span>
-    <span style="color: #4B0082;">o</span>
-    <span style="color: #9400D3;">s</span>
-    <span style="color: #FF0000;">i</span>
-    <span style="color: #FF7F00;">t</span>
-    <span style="color: #FFFF00;">o</span>
-    <span style="color: #00FF00;">r</span>
-    <span style="color: #0000FF;">i</span>
-    <span style="color: #4B0082;">o</span>
-</a>
+
 
 
 
@@ -58,7 +10,11 @@
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
-## <a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&letterSpacing=-1xp;&pause=1000&color=F76B1C&center=FALSO&vCenter=FALSO&multiline=true&repeat=verdadero&random=FALSO&height=70&lines=BIENVENIDO+A+NerritoBot+%F0%9F%90%88%E2%80%8D%E2%AC%9B;GRACIAS+POR+VISITARME+%E2%99%A1" alt="Typing SVG" /></a>
+## ## <a href="https://github.com/IDAGO-OG/NerroBot-MD">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+soy+Nerrito+%F0%9F%91%8B;Bienvenido+a+mi+repositorio" alt="Typing SVG 1" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+soy+Nerrito+%F0%9F%91%8B;Bienvenido+a+mi+repositorio" alt="Typing SVG 2" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hola%2C+soy+Nerrito+%F0%9F%91%8B;Bienvenido+a+mi+repositorio" alt="Typing SVG 3" />
+</a>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+584121275155&text=&text=.menu">Demo</a>
