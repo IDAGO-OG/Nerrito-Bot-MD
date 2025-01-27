@@ -1,6 +1,8 @@
-# `☆▪︎▪︎ The Nerrito - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
+# Hola, soy Nerrito 👋
 
-👉 [Ver efecto pixelado aquí](https://nerrito.github.io/pixel-effect/)
+## Proyecto: Nerrito-Bot-MD 🐈‍⬛
+
+👉 [Ver la página web aquí](https://nerrito.github.io/nerrito-bot-md/es.html)
 
 <p align="center">
  <img src="Perfil.jpg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
