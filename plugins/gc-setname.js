@@ -1,11 +1,8 @@
-import Presence from "baileys";
-
-
 const handler = async (m, {conn, args, text}) => {
-  const datas = global
-  const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje
-  const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
-  const tradutor = _translate.plugins.gc_setname
+  const datas = global;
+  const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje;
+  const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`));
+  const tradutor = _translate.plugins.gc_setname;
 
   if (!text) throw tradutor.texto1;
   try {
@@ -13,11 +10,13 @@ const handler = async (m, {conn, args, text}) => {
     if (!args || !args[0]) {
     } else {
       conn.groupUpdateSubject(m.chat, text);
+      m.reply(`@${m.sender.split('@')[0]} ${tradutor.texto1}`, null, { mentions: [m.sender] });
     }
   } catch (e) {
     throw tradutor.texto2;
   }
 };
+
 handler.help = ['setname <text>'];
 handler.tags = ['group'];
 handler.command = /^(setname)$/i;
