@@ -11,9 +11,8 @@
 
 
 
-
 <p align="center">
- <img src="Perfil.jpg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
+ <img src="1000222959-01.jpeg" alt="Logo de mi proyecto" style="border-radius: 50%; width: 150px;" />
  <h2 align="center" style="font-family: 'Press Start 2P', cursive; font-size: 32px; color: white;">Nerrito-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
