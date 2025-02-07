@@ -44,8 +44,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_1dago)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_1dago?_t=ZM-8tho9DaFEQQ&_r=1)
 [![El Dorado](https://img.shields.io/badge/El_Dorado-FFD700?style=for-the-badge&logo=tether&logoColor=black)](https://link.eldorado.io/JPcIm34xMQb)
-[![Wally Logo](descarga.jpeg)](https://wally.to/pay/+58421275155)
-[![Zinli Logo](descarga%20(1).png)](https://zinli.app/pay/d32393844@gmail.com)
+<a href="https://wally.to/pay/+58421275155">
+  <img src="descarga.jpeg" alt="Wally Logo" width="120"/>
+</a>
+<a href="https://zinli.app/pay/d32393844@gmail.com">
+  <img src="descarga%20(1).png" alt="Zinli Logo" width="120"/>
+</a>
 
 
 
