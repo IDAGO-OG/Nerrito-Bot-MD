@@ -15,7 +15,7 @@ global.isBaileysFail = false;
 
 global.defaultLenguaje = 'es';
 
-global.gif = fs.readFileSync(Gitperfil.gif);
+global.gif = fs.readFileSync('./Gitperfil.gif');
 global.owner = [
   ['584121275155', '🐈‍⬛ IDAGO-OG 🐈‍⬛', true] // Único dueño
 ];
