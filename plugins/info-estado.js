@@ -7,10 +7,10 @@ import fs from "fs";
 import { performance } from "perf_hooks";
 
 const handler = async (m, { conn, usedPrefix }) => {
-  const datas = global
-  const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje
-  const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
-  const tradutor = _translate.plugins.info_estado
+  const datas = global;
+  const idioma = datas.db.data.users[m.sender].language || global.defaultLenguaje;
+  const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`));
+  const tradutor = _translate.plugins.info_estado;
 
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
@@ -28,12 +28,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The Mystic Bot';
+  const wm = 'Nerrito-Bot'; // Nombre del bot actualizado
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Bruno Sobrino
-  ${tradutor.texto1[2]} +5219992095479
-  ${tradutor.texto1[3]} paypal.me/BrunoSob
+  ${tradutor.texto1[1]} Diego-OG
+  ${tradutor.texto1[2]} +584121275155
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
@@ -54,6 +53,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ${tradutor.texto1[18]} ${antiprivado ? "activado" : "desactivado"}
   ${tradutor.texto1[19]} ${antiCall ? "activado" : "desactivado"}
   ${tradutor.texto1[20]} ${modejadibot ? "activado" : "desactivado"}`.trim();
+
   const doc = [
     "pdf",
     "zip",
@@ -63,22 +63,22 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
+    document: { url: `https://github.com/IDAGO-OG/Nerrito-Bot-MD` }, // Enlace al repositorio actualizado
     mimetype: `application/${document}`,
-    fileName: `Documento`,
+    fileName: `Nerrito-Bot MD`, // Nombre del archivo actualizado
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+        mediaUrl: "https://github.com/IDAGO-OG/Nerrito-Bot-MD", // Enlace al repositorio actualizado
         mediaType: 2,
         previewType: "pdf",
-        title: "The Mystic - Bot",
+        title: "Nerrito-Bot", // Título actualizado
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+        sourceUrl: "https://github.com/IDAGO-OG/Nerrito-Bot-MD", // Enlace de origen actualizado
       },
     },
     caption: info,
