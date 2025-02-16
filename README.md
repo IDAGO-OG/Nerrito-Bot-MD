@@ -113,7 +113,7 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a al **Desarrollador** que ha aportado al desarrollo de este proyecto. Su aporte ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD//graphs/contributors">  <img src="Gifperfil.gif" /> 
+<a href="https://github.com/IDAGO-OG/Nerrito-Bot-MD//graphs/contributors">  <img src="Perfil2.png" /> 
 </a>
 
 #### `NerritoBot-MD ~ By Diego-OG`
