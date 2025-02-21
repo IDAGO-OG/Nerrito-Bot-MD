@@ -27,11 +27,11 @@ global.prems = ['584121275155']; // Número del dueño
 global.BASE_API_DELIRIUS = "https://deliriussapi-oficial.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'Nerrito-Bot'; // Cambiado a Nerrito-Bot
-global.wm = 'Nerrito-Bot'; // Cambiado a Nerrito-Bot
-global.titulowm = 'Nerrito-Bot'; // Cambiado a Nerrito-Bot
-global.titulowm2 = `Nerrito-Bot`; // Cambiado a Nerrito-Bot
-global.igfg = 'Nerrito-Bot'; // Cambiado a Nerrito-Bot
+global.author = 'Nerrito-Bot'; 
+global.wm = 'Nerrito-Bot'; 
+global.titulowm = 'Nerrito-Bot';
+global.titulowm2 = `Nerrito-Bot`; 
+global.igfg = 'Nerrito-Bot'; 
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
